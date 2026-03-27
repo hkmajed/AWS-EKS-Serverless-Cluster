@@ -1,4 +1,4 @@
-**AWS EKS Serverless Cluster (Fargate)**
+<h1> **AWS EKS Serverless Cluster (Fargate)** </h1>
 
 This project demonstrates how to deploy a serverless Kubernetes environment using Amazon EKS with AWS Fargate as the compute engine.
 It also includes the installation of the AWS Load Balancer Controller, which enables Kubernetes Ingress resources to automatically provision and manage Application Load Balancers (ALB).
