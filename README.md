@@ -24,6 +24,5 @@ IAM	IAM OIDC Provider, IAM Service Accounts
 📦 Project Structure
 
 AWS-EKS-Fargate-Cluster/
-│
-├── README.md               # Project overview (this file)
-└── deployment-guide.md     # All steps and commands needed to reproduce the setup
+- README.md               # Project overview (this file)
+- deployment-guide.md     # All steps and commands needed to reproduce the setup
