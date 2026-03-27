@@ -22,6 +22,7 @@ Provisioning	eksctl, kubectl, AWS CLI, Helm
 IAM	IAM OIDC Provider, IAM Service Accounts
 
 📦 Project Structure
+
 AWS-EKS-Fargate-Cluster/
 │
 ├── README.md               # Project overview (this file)
